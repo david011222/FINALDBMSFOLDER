@@ -1,3 +1,8 @@
+//I couldn't get my code running
+// I managed to complete the first 3 parts of the assignment & learned a lot in the process
+//thank you for a good semester
+//~David Nawee
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
